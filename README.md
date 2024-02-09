@@ -11,7 +11,7 @@ A 3D rhythm game demo. Generates randomized music on each playthrough.
 - Press ‘5’ to rotate right twice.
 
 ### Development
-- Syncing the music with the notes was the biggest challenge.
+- Syncing the music with the physical note blocks was the biggest challenge.
 - The drum beat and chords are generated randomly on each playthough.
 - I downloaded an asset called MidiPlayer to help with this project.
 - I added lighting to the platforms and small visual effects to the notes.
